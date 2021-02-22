@@ -1,2 +1,2 @@
-# furtwaenglerchina.github.io
-A website for news releasing.
+# furtwaenglercn.org
+A website for Society of Furtwaengler China.
