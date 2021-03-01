@@ -1,48 +1,65 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
-<urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
 <url>
-<loc><![CDATA[https://www.furtwaenglercn.org]]></loc>
-<lastmod>2021-02-25</lastmod>
-<changefreq>weekly</changefreq>
+ <loc>https://www.furtwaenglercn.org/news.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-02-28</lastmod>
+ <changefreq>weekly</changefreq>
 </url>
+
 <url>
-<loc><![CDATA[https://www.furtwaenglercn.org/authorization.html]]></loc>
-<lastmod>2021-02-25</lastmod>
-<changefreq>weekly</changefreq>
+ <loc>https://www.furtwaenglercn.org/music.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-02-28</lastmod>
+ <changefreq>weekly</changefreq>
 </url>
+
 <url>
-<loc><![CDATA[https://www.furtwaenglercn.org/councillor.html]]></loc>
-<lastmod>2021-02-25</lastmod>
-<changefreq>weekly</changefreq>
+ <loc>https://www.furtwaenglercn.org/join.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-02-28</lastmod>
+ <changefreq>weekly</changefreq>
 </url>
+
 <url>
-<loc><![CDATA[https://www.furtwaenglercn.org/elements.html]]></loc>
-<lastmod>2021-02-25</lastmod>
-<changefreq>weekly</changefreq>
+ <loc>https://www.furtwaenglercn.org/index.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-02-28</lastmod>
+ <changefreq>weekly</changefreq>
 </url>
+
 <url>
-<loc><![CDATA[https://www.furtwaenglercn.org/index.html]]></loc>
-<lastmod>2021-02-25</lastmod>
-<changefreq>weekly</changefreq>
+ <loc>https://www.furtwaenglercn.org/councillor.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-02-28</lastmod>
+ <changefreq>weekly</changefreq>
 </url>
+
 <url>
-<loc><![CDATA[https://www.furtwaenglercn.org/join.html]]></loc>
-<lastmod>2021-02-25</lastmod>
-<changefreq>weekly</changefreq>
+ <loc>https://www.furtwaenglercn.org/elements.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-02-28</lastmod>
+ <changefreq>weekly</changefreq>
 </url>
+
 <url>
-<loc><![CDATA[https://www.furtwaenglercn.org/members.html]]></loc>
-<lastmod>2021-02-25</lastmod>
-<changefreq>weekly</changefreq>
+ <loc>https://www.furtwaenglercn.org</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-02-28</lastmod>
+ <changefreq>weekly</changefreq>
 </url>
+
 <url>
-<loc><![CDATA[https://www.furtwaenglercn.org/music.html]]></loc>
-<lastmod>2021-02-25</lastmod>
-<changefreq>weekly</changefreq>
+ <loc>https://www.furtwaenglercn.org/authorization.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-02-28</lastmod>
+ <changefreq>weekly</changefreq>
 </url>
-<url>
-<loc><![CDATA[https://www.furtwaenglercn.org/news.html]]></loc>
-<lastmod>2021-02-25</lastmod>
-<changefreq>weekly</changefreq>
-</url>
+
 </urlset>
